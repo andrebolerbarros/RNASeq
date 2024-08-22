@@ -19,7 +19,9 @@ subsample_salmon.sh --i <input_dir> --o <output_dir> --p <prop_of_reads> --n <nu
 `--g:` folder where the reference genome is 
       The genome needs to be previously indexed using salmon index
 
+
 **parameters**
+
 `--n:` number of reads used for subsampling
 
 `--p:` proportion of the reads used for subsampling
